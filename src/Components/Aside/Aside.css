@@ -1,0 +1,29 @@
+.profile-pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic img{
+    max-width: 80%;
+    border-radius: 30px;
+}
+
+.user-name{
+    text-align: center;
+    color: #fff;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    font-size: 1.4rem;
+}
+
+.user-title{
+    background-color: #272333;
+    padding: 4px;
+    border-radius: 20px;
+    width: 82%;
+    margin: auto;
+    text-align: center;
+    text-transform: capitalize;
+    color: #fff;
+    font-size: 1rem;
+}
